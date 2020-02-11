@@ -1,0 +1,5 @@
+China	1,439,000,000
+India	1,380,000,000
+United States	327,000,000
+Indonesia	273,000,000
+Africa	1,427,000,000
